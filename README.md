@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TTTTTOW
+- 👋 Hi, I’m @Joan Su
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python & C
+- 🌱 I’m currently learning Python & C &Java
 - 💞️ I’m looking to collaborate on ... for now? nothing(I'm still learing!)
 - 📫 How to reach me 1624896333@qq.com
 
